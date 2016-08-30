@@ -1,3 +1,4 @@
+DESCRIPTION
 eagle.epf
 .DS_STORE
 .DS_Store
@@ -8,3 +9,4 @@ gerber-files
 *.s##
 *.pro
 *.job
+*~
